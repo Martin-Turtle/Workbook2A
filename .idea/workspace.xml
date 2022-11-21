@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a9025b-7ee9-49e2-9e4c-089e08f59f87" name="Changes" comment="Work for Question 3">
-      <change afterPath="$PROJECT_DIR$/src/TimesTable.java" afterDir="false" />
+    <list default="true" id="47a9025b-7ee9-49e2-9e4c-089e08f59f87" name="Changes" comment="Work for Question 4">
+      <change afterPath="$PROJECT_DIR$/src/SumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668890133945</updated>
       <workItem from="1668890138428" duration="606000" />
-      <workItem from="1669023214142" duration="5571000" />
+      <workItem from="1669023214142" duration="7987000" />
     </task>
     <task id="LOCAL-00001" summary="Work for Question 1">
       <created>1668890735008</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669024370598</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Work for Question 4">
+      <created>1669029518709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669029518709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +96,7 @@
     <MESSAGE value="Work for Question 1" />
     <MESSAGE value="Work for Question 2" />
     <MESSAGE value="Work for Question 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work for Question 3" />
+    <MESSAGE value="Work for Question 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work for Question 4" />
   </component>
 </project>
