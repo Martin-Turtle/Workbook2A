@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a9025b-7ee9-49e2-9e4c-089e08f59f87" name="Changes" comment="Work for Question 6" />
+    <list default="true" id="47a9025b-7ee9-49e2-9e4c-089e08f59f87" name="Changes" comment="Work for Question 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
       <workItem from="1668890138428" duration="606000" />
       <workItem from="1669023214142" duration="8996000" />
       <workItem from="1669205396328" duration="918000" />
-      <workItem from="1669290732727" duration="2342000" />
+      <workItem from="1669290732727" duration="2939000" />
     </task>
     <task id="LOCAL-00001" summary="Work for Question 1">
       <created>1668890735008</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669293338377</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Work for Question 7">
+      <created>1669294015110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669294015110</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,8 +125,8 @@
     <MESSAGE value="Work for Question 3" />
     <MESSAGE value="Work for Question 4" />
     <MESSAGE value="Work for Question 5" />
-    <MESSAGE value="Work for Question 7" />
     <MESSAGE value="Work for Question 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work for Question 6" />
+    <MESSAGE value="Work for Question 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work for Question 7" />
   </component>
 </project>
