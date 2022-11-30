@@ -4,7 +4,7 @@ public class ReverseString {
     public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
-        System.out.print ("Input a string : ");
+        System.out.print ("Tell me your name : ");
         char[] letters = reader.nextLine().toCharArray();
 
 
